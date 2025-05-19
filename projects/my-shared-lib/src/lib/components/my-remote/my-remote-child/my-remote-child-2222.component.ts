@@ -1,9 +1,9 @@
 import { Component } from '@angular/core'
 
 @Component({
-  selector: 'lib-my-remote-child',
+  selector: 'lib-my-remote-child-2222',
   imports: [],
-  templateUrl: './my-remote-child.component.html',
-  styleUrl: './my-remote-child.component.scss',
+  templateUrl: './my-remote-child-2222.component.html',
+  styleUrl: './my-remote-child-2222.component.scss',
 })
-export class MyRemoteChildComponent {}
+export class MyRemoteChild2222Component {}
