@@ -1,17 +1,17 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing'
-import { MyRemoteComponent } from './my-remote.component'
+import { MyRemote2222Component } from './my-remote-2222.component'
 
-describe('MyRemoteComponent', () => {
-  let component: MyRemoteComponent
-  let fixture: ComponentFixture<MyRemoteComponent>
+describe('MyRemote2222Component', () => {
+  let component: MyRemote2222Component
+  let fixture: ComponentFixture<MyRemote2222Component>
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [MyRemoteComponent],
+      imports: [MyRemote2222Component],
     })
       .compileComponents()
 
-    fixture = TestBed.createComponent(MyRemoteComponent)
+    fixture = TestBed.createComponent(MyRemote2222Component)
     component = fixture.componentInstance
     fixture.detectChanges()
   })
