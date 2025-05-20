@@ -3,5 +3,7 @@
  */
 
 export * from './lib/components/my-remote-2222/my-remote-2222.component'
+export * from './lib/components/load-3333/load-3333.component'
 export * from './lib/services/my-remote-2222/my-remote-2222.service'
+export * from './lib/services/load-3333/load-3333.service'
 export * from './lib/other/my-shared-lib-2222.other'

@@ -1,0 +1,9 @@
+<div>load 3333 from 2222</div>
+<ng-container #vc></ng-container>
+@if (success() === null) {
+  <div>LOADING...</div>
+} @else if (success() === true) {
+  <div class="success">LOADING SUCCESS</div>
+} @else if (success() === false) {
+  <div class="failure">LOADING FAILURE</div>
+}
