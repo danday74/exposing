@@ -14,11 +14,11 @@
         "./src/app/*"
       ],
       // development
-      "my-shared-lib": [
+      "my-shared-lib-2222": [
         "./projects/my-shared-lib/src/public-api.ts"
       ]
       // production
-      // "my-shared-lib": [
+      // "my-shared-lib-2222": [
       //   "./dist/my-shared-lib"
       // ]
     },
