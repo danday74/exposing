@@ -7,7 +7,7 @@ module.exports = withNativeFederation({
 
   exposes: {
     './Component': './src/app/app.component.ts',
-    './MySharedLib2222': './src/app/exports/my-shared-lib-2222.ts',
+    'MySharedLib2222': './src/app/exports/my-shared-lib-2222.ts',
   },
 
   shared: {
